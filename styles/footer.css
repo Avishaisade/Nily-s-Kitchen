@@ -1,5 +1,5 @@
 .footer {
-    background-color: #11122b;
+    background-color: #260339;
     color: #cbcbcb;
     font-family: "Ubuntu Condensed", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@
 }
 
 .footer > .logo-footer img {
-    width: 180px;
+    width: 100px;
     height: 100%;
     /* filter: brightness(50%); */
     opacity: 0.5;

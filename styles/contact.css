@@ -11,17 +11,18 @@
 }
 
 .company-metadata-sidebar-wrapper > .company-details-wrapper {
-    font-family: "Ubuntu Condensed", sans-serif;
+    font-family: 'Rubik', sans-serif;
     font-weight: 900;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    text-align: right;
+    text-align: center;
     font-size: 1.25em;
 }
 
 .company-metadata-sidebar-wrapper > .company-details-wrapper i {
     color: #cea135;
+    right: 300px;
 }

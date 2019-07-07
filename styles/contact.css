@@ -15,11 +15,12 @@
     font-weight: 900;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: right;
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
     font-size: 1.25em;
+    margin-left: 60px;
 }
 
 .company-metadata-sidebar-wrapper > .company-details-wrapper i {
